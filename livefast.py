@@ -18,9 +18,9 @@ indian_places = {
 
 
 
-# @app.get("/hello/{name}")
-# async def hello(name):
-#     return f" this is my python class {name}"
+@app.get("/hello/{name}")
+async def hello(name):
+    return f" this is my python class {name}"
 
 @app.get("/get_items/{name}")
 async def hello(name):
