@@ -112,13 +112,7 @@ Clone the Repository:
 
 bash
 
-Verify
 
-Open In Editor
-Run
-Copy code
-git clone https://github.com/yourusername/sensor-fault-detection.git
-cd sensor-fault-detection
 Install Dependencies:
 
 Ensure you have Python 3.7 or higher installed.
